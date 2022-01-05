@@ -306,7 +306,7 @@ test_len = X_test.shape[1] - X_valid.shape[1]
 # Définition paramètres du réseau
 hidden_dim=50 
 freq_dim=10
-n_epochs = 3000
+n_epochs = 4000
 n_batch = 800
 learning_rate=0.01
 
